@@ -18,3 +18,5 @@ Gabriel Araújo
 Gabriel Barbosa Zanon
 lucas Gonçalves Giachetto
 Marcos Vinícius de Oliveira
+
+<img src="Fluxograma Pedido Azul Cinza (1).jpg">
