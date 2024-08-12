@@ -1,5 +1,7 @@
 **Dicionário de Dados**
 
+<img src="Fluxograma Pedido Azul Cinza (1).jpg">
+
 |**Entidade**|**Atributo**|**Tipo**|**Tamanho**|**Descrição**|
 |-|-|-|-|-|
 |**Funcionário**|id|int||Identificador do funcionário|
@@ -19,4 +21,3 @@ Gabriel Barbosa Zanon
 lucas Gonçalves Giachetto
 Marcos Vinícius de Oliveira
 
-<img src="Fluxograma Pedido Azul Cinza (1).jpg">
