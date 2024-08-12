@@ -14,7 +14,7 @@
 |**Veículo**|Tipo|varchar|100|classificação do veículo|
 |**Veículo**|Modelo|varchar|100|marca do veículo|
 
----------------------------------------------------------
+----------------------------------------------------------
 **Membros**
 Gabriel Araújo
 Gabriel Barbosa Zanon
